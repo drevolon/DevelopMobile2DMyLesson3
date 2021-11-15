@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2247009208
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 704456ac54455c52d507397c9653253b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sprites/GrenadeLauncher.png
+- Assets/Sprites/Boost.png
+- Assets/Sprites/EngineOil.png
+Dependencies: []
